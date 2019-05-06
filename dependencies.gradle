@@ -1,0 +1,11 @@
+ext.builds = [
+    gradle : "3.4.0"
+]
+
+ext.layouts = [
+    constraint : '1.1.3'
+]
+
+ext.versions = [
+    kotlin : '1.3.31'
+]
